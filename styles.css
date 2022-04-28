@@ -1,0 +1,42 @@
+div {
+    border: 1px solid black;
+}
+
+img {
+    width: 200px;
+}
+
+.me {
+    border: 15px solid green;
+    margin: 15px;
+    padding: 20px;
+}
+.friends{
+    border:15px dashed pink;
+    margin:15px;
+    padding:15px;
+}
+
+body {
+    background-color: pink;
+}
+
+img {
+    width: 100px;
+}
+
+h1 {
+    color: purple;
+}
+
+p {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: purple;
+}
